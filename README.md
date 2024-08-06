@@ -1,3 +1,4 @@
+![meet the grahams](https://github.com/user-attachments/assets/1cbcdcdf-3ce0-4ff0-b427-163ee3d77460)
 ## Heya, Pal! The name's ExcodeFNF, call me Excode for short. 👋
 
 - 🔭 I’m currently working on modifying FNF
