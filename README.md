@@ -1,4 +1,4 @@
-![GitHub Statistics:](https://github-readme-stats.vercel.app/api?username=ExcodeFNF&theme=prussian)
+![GitHub Statistics:](https://github-readme-stats.vercel.app/api?username=Excode&theme=prussian)
 
 ## Heya, Pal! The name's ExcodeFNF, call me Excode for short. 👋
 
