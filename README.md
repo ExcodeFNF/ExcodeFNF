@@ -1,6 +1,6 @@
 ![GitHub Statistics:](https://github-readme-stats.vercel.app/api?username=ExtraCode75&theme=prussian)
 
-## Heya, Pal! The name's ExcodeCode, call me Excode for short. 👋
+## Heya, Pal! The name's ExtraCode, call me Excode for short. 👋
 
 - 🔭 I’m currently working on modifying FNF
 - 🌱 I’m currently learning code
